@@ -1,0 +1,188 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+
+
+.images img{
+    height: 400px;
+    width: 200px;
+    position: relative;
+    object-fit: cover;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  outline: 0px;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  
+}
+body{
+    background-color: #F2F1E8;
+    
+    
+
+}
+.home_nav_bar{
+background-color:#FFFFFF;
+
+
+
+
+}
+.home_nav{
+    display:flex;
+    justify-content: center;
+    text-transform: uppercase;
+    align-content: space-between;
+    padding: 15px;
+}
+.home_nav a{
+    color:#2B2F26;
+    margin-right: 70px;
+
+    
+}
+#nav_vase{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    left: 10px;
+}
+.home_header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-shadow: 1px 2px 8px black;
+
+}
+#top_head{
+    font-family: 'Merriweather', serif;
+    font-size: 50px;
+    margin: 20px;
+    font-weight: normal;
+    
+}
+#bottom_head{
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    margin-bottom: 50px;
+    font-weight: 100;
+    color: #131511;
+}
+img[src="/Users/ahmadbratton/tiyfiles/frontend /week_1/week-1-project/images/optimized/product-1.jpg"] {
+height: 400px;
+flex: 3;
+margin: 10px;
+
+}
+img[src="/Users/ahmadbratton/tiyfiles/frontend /week_1/week-1-project/images/optimized/product-2.jpg"]{
+height: 400px;
+flex: 1;
+margin: 10px;
+}
+.images {
+   
+   
+  
+
+}
+img[src="/Users/ahmadbratton/tiyfiles/frontend /week_1/week-1-project/images/optimized/product-3.jpg"]{
+flex: 1;
+height: 400px;
+margin: 10px;
+}
+.top_row{
+    display: flex;
+    /*align-items: center;*/
+    justify-content: space-between;
+    flex-direction: row;
+    
+   
+   
+}
+.bottom_row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    
+    
+}
+img[src="/Users/ahmadbratton/tiyfiles/frontend /week_1/week-1-project/images/optimized/product-4.jpg"]{
+flex:1;
+margin: 10px;
+}
+img[src="/Users/ahmadbratton/tiyfiles/frontend /week_1/week-1-project/images/optimized/product-5.jpg"]{
+flex:1;
+margin: 10px;
+}
+img[src="/Users/ahmadbratton/tiyfiles/frontend /week_1/week-1-project/images/optimized/product-6.jpg"]{
+flex:2;
+margin: 10px;
+}
+img[src="/Users/ahmadbratton/tiyfiles/frontend /week_1/week-1-project/images/optimized/product-7.jpg"]{
+flex:1;
+margin: 10px;
+}
+
+.images p {
+    background-color: #2B2F26;
+    height: 40px;
+    padding: 10px;
+    color: white;
+    font-family: 'Merriweather', serif;
+    z-index: 2;
+    text-align: center;
+    
+    
+    
+}
+#p_one {
+    position: absolute;
+    right: 1715px;
+    top:595px;
+}
+#p_two{
+    position: absolute;
+    left: 1150px;
+    top:595px;
+}
+#p_three {
+    position: absolute;
+    left: 1550px;
+    bottom: 440px;
+}
+#p_four {
+    position: absolute;
+    left: 10px;
+   bottom: 30px;
+}
+#p_five {
+    position: absolute;
+    left: 400px;
+    bottom: 30px;
+}
+#p_six {
+    position: absolute;
+    left: 790px;
+    bottom: 30px;
+}
+#p_seven {
+    position: absolute;
+    right: 190px;
+    bottom: 30px;
+}
+footer p{
+    background-color: #2B2F26;
+    height: 40px;
+    padding: 10px;
+    color: white;
+    font-family: 'Merriweather', serif;
+    text-align: left;
+}
+
+
