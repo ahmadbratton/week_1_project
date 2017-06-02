@@ -35,7 +35,7 @@ background-color:#FFFFFF;
     left: 10px;
 }
 body{
-    background-image: url("/Users/ahmadbratton/tiyfiles/frontend /week_1/week-1-project/images/optimized/background-2.jpg");
+    background-image: url("images/optimized/background-2.jpg");
     background-size:cover;
     
     background-repeat: no-repeat;

@@ -73,13 +73,13 @@ background-color:#FFFFFF;
     font-weight: 100;
     color: #131511;
 }
-img[src="/Users/ahmadbratton/tiyfiles/frontend /week_1/week-1-project/images/optimized/product-1.jpg"] {
+img[src="images/optimized/product-1.jpg"] {
 height: 400px;
 flex: 3;
 margin: 10px;
 
 }
-img[src="/Users/ahmadbratton/tiyfiles/frontend /week_1/week-1-project/images/optimized/product-2.jpg"]{
+img[src="images/optimized/product-2.jpg"]{
 height: 400px;
 flex: 1;
 margin: 10px;
@@ -90,7 +90,7 @@ margin: 10px;
   
 
 }
-img[src="/Users/ahmadbratton/tiyfiles/frontend /week_1/week-1-project/images/optimized/product-3.jpg"]{
+img[src="images/optimized/product-3.jpg"]{
 flex: 1;
 height: 400px;
 margin: 10px;
@@ -112,19 +112,19 @@ margin: 10px;
     
     
 }
-img[src="/Users/ahmadbratton/tiyfiles/frontend /week_1/week-1-project/images/optimized/product-4.jpg"]{
+img[src="images/optimized/product-4.jpg"]{
 flex:1;
 margin: 10px;
 }
-img[src="/Users/ahmadbratton/tiyfiles/frontend /week_1/week-1-project/images/optimized/product-5.jpg"]{
+img[src="images/optimized/product-5.jpg"]{
 flex:1;
 margin: 10px;
 }
-img[src="/Users/ahmadbratton/tiyfiles/frontend /week_1/week-1-project/images/optimized/product-6.jpg"]{
+img[src="images/optimized/product-6.jpg"]{
 flex:2;
 margin: 10px;
 }
-img[src="/Users/ahmadbratton/tiyfiles/frontend /week_1/week-1-project/images/optimized/product-7.jpg"]{
+img[src="images/optimized/product-7.jpg"]{
 flex:1;
 margin: 10px;
 }
